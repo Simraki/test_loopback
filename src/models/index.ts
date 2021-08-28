@@ -1,1 +1,2 @@
-export * from './todo.model';
+export * from './company.model';
+export * from './vacancy.model';
